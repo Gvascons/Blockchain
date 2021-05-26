@@ -5,4 +5,4 @@
 
 ### I also used Spyder (Scientific Python Development Environment), which is a free integrated development environment (IDE) that is included with Anaconda. It includes editing, interactive testing, debugging, and introspection features.
 
-#### This project has only been possible thanks to the guiding provided by https://www.superdatascience.com/pages/blockchain .
+#### This project was only possible thanks to the guiding provided by https://www.superdatascience.com/pages/blockchain .
